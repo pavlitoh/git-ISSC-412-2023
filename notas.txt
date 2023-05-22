@@ -31,3 +31,6 @@ Trae los metadatos sobre los commits, ramas, refs, etc.
 Sincroniza la rama local con lo que hay en al remota.
 En toras palabras, descarga los commits que hay en la remota y faltan en la local.
 Ej. git pull.
+
+Ramas:
+TODO: Agregar deifnición de ramas.
